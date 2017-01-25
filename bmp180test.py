@@ -3,7 +3,7 @@ import sys
 
 # bmp180test.py
 #
-# test for bmp180lib:  BMP085 pressure and temperature sensor class 
+# test for bmp180lib:  BMP180 pressure and temperature sensor class 
 # and compare vs results obtained from Adafruit driver
 # Author: Andy Paul
 #         nurazur@gmail.com

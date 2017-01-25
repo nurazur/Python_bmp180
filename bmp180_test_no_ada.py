@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
-# bmp180test.py
+# bmp180_test_no_ada.py
 #
-# test for bmp180lib:  test BMP085 pressure and temperature sensor class 
+# test for bmp180lib.py: test BMP085 pressure and temperature sensor class 
 # 
 # Author: Andy Paul
 #         nurazur@gmail.com
